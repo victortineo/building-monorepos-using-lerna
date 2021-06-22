@@ -28,7 +28,7 @@ const Home = () => (
 
     <style jsx>{`
       .container {
-        min-height: 100vh;
+        min-height: 99vh;
         padding: 0 0.5rem;
         display: flex;
         flex-direction: column;
