@@ -10,6 +10,6 @@
   },
   "scripts": {
     "build": "lerna exec --include-dependencies -- yarn build",
-    "bootstrap": "lerna bootstrap --use-workspaces
+    "bootstrap": "lerna bootstrap --use-workspaces"
   }
 }
