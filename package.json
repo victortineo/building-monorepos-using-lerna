@@ -9,6 +9,7 @@
     "lerna": "^3.20.2"
   },
   "scripts": {
-    "build": "lerna exec --include-dependencies -- yarn build"
+    "build": "lerna exec --include-dependencies -- yarn build",
+     "bootstrap": "lerna bootstrap --use-workspaces",
   }
 }
