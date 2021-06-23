@@ -9,6 +9,6 @@
     "lerna": "^3.20.2"
   },
   "scripts": {
-    "build": "lerna exec --scope --include-dependencies -- yarn build",
+    "build": "lerna exec --scope --include-dependencies -- yarn build"
   }
 }
